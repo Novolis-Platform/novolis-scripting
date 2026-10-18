@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Scripting.Hosting</PackageId>
+    <RootNamespace>Novolis.Scripting.Hosting</RootNamespace>
+    <Description>Composition options and host services for controlled C# scripting.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Scripting.CSharp\Novolis.Scripting.CSharp.csproj" />
+    <ProjectReference Include="..\Novolis.Scripting.Completion\Novolis.Scripting.Completion.csproj" />
+  </ItemGroup>
+</Project>

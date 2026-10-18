@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Novolis.Scripting.Completion/Novolis.Scripting.Completion.csproj" />
+    <Project Path="src/Novolis.Scripting.CSharp/Novolis.Scripting.CSharp.csproj" />
+    <Project Path="src/Novolis.Scripting.Hosting/Novolis.Scripting.Hosting.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Novolis.Scripting.Unit/Novolis.Scripting.Unit.csproj" />
+  </Folder>
+</Solution>

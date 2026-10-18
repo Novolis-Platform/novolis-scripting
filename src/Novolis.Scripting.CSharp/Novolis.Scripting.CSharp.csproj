@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Scripting.CSharp</PackageId>
+    <RootNamespace>Novolis.Scripting.CSharp</RootNamespace>
+    <Description>Hosted C# script execution with controlled references, imports, globals, and diagnostics.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" />
+  </ItemGroup>
+</Project>
