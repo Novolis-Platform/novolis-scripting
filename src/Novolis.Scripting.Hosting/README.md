@@ -1,7 +1,5 @@
 # Novolis.Scripting.Hosting
 
-Combined script diagnostics and execution service.
+Composition options and host services for controlled C# scripting.
 
-```powershell
-dotnet add package Novolis.Scripting.Hosting
-```
+Install from nuget.org or GitHub Packages.

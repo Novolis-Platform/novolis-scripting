@@ -1,7 +1,5 @@
 # Novolis.Scripting.CSharp
 
-Controlled C# snippet execution with Roslyn scripting.
+Hosted C# script execution with controlled references, imports, globals, and diagnostics.
 
-```powershell
-dotnet add package Novolis.Scripting.CSharp
-```
+Install from nuget.org or GitHub Packages.

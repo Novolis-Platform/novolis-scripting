@@ -1,7 +1,5 @@
 # Novolis.Scripting.Completion
 
-C# script source diagnostics and keyword/Roslyn completion for editor and automation hosts.
+C# script diagnostics and completion-oriented source analysis.
 
-```powershell
-dotnet add package Novolis.Scripting.Completion
-```
+Install from nuget.org or GitHub Packages.
